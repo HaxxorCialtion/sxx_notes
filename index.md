@@ -2,9 +2,6 @@
 title: Welcome to My Blog
 date: 2024-07-17
 ---
-
-# Welcome to My Blog
-
 你好, everyone! Welcome to my personal blog. Here you'll find posts about various topics that interest me.
 
 ## About Me
